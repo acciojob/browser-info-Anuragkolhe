@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+#browser-info {
+			background-color: #f5f5f5;
+			border: 1px solid #ddd;
+			padding: 10px;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+		}
